@@ -1,5 +1,5 @@
 
-#HURİYE DURSUN 24100011012
+#HURİYE DURSUN 
 
 def kitap_ekle():
     try :
@@ -529,3 +529,4 @@ sifreuzunluk=6
 iade_suresi=15
 gecen_gun_ucreti=10
 temel_kontrol() # ana fonksiyonu çağırıyoruz
+
